@@ -141,7 +141,7 @@ a.site-head__brand:visited {
   color: white;
 }
 
-@media (min-width: 400px) and (max-width: 1169px) {
+@media (min-width: 200px) and (max-width: 1169px) {
   .nav__list {
     flex-direction: column;
     text-align: center;
